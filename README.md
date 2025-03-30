@@ -1,3 +1,10 @@
+
+Meiyarasu A
+
+Electronics and Communication Engineering Student
+
+Passionate about technology, innovation, and problem-solving.
+
 <div class="section">  
     <h2>Projects</h2>  
     <p><strong>Smart Traffic Light System:</strong> Designed an intelligent traffic light system using Arduino and sensors to optimize traffic flow based on real-time vehicle detection.</p>  
